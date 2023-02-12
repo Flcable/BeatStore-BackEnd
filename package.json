@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/Flcable/BeatStore-BackEnd.git",
   "author": "Flcable <flcable@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
